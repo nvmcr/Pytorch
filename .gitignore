@@ -1,0 +1,14 @@
+# Data (Can be loaded from code)
+FashionMNIST/data/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
