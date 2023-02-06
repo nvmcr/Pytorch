@@ -1,5 +1,6 @@
 # Data (Can be loaded from code)
 FashionMNIST/data/
+CustomDatasets/data/
 
 # Jupyter Notebook
 .ipynb_checkpoints
